@@ -9,3 +9,5 @@ Telegram bot translates texts to and from all languages
   - bot channls
   - api_key
 and Run File 
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/r_afx)    [![Telegram Channls ](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/radfx2)
+
