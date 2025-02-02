@@ -17,9 +17,9 @@ databesas = databesas.Databesas()
 
 # Config Class
 class Config:
-    API_KEY   : str = "<API_KEY>" # Her Bot Token
-    API_HASH  : str = "abcdf1223455" # Her Telegram Api Hash
-    API_ID    : int = 1234567 # her Api Id
+    API_KEY   : str = "7867069654:AAFh2xtQyTqgsRnnIaDOm4B2dK0SsiXsw34" # Her Bot Token
+    API_HASH  : str = "c1a5d9335f001bd966ad9618473f6526" # Her Telegram Api Hash
+    API_ID    : int = 12787419 # her Api Id
     SUDO     : int  = 1847435573 # hey Sudo ID 
     CHANNLS  : list = ['radfx2'] # her Bot Channls
     
